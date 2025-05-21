@@ -2,7 +2,7 @@
 - 👀 I’m interested in codind and web development.
 - 🌱 I’m currently learning php & python.
 - 💞️ I’m looking to collaborate on various type of computer science projects.
-- 📫 How to reach me mob:-9569431201/6387122846 & gmail:-aniketupadhyay560@gamil.com &linkedin.com/in/aniket-upadhyay9569.
+- 📫 How to reach me mob:-9569431201/6387122846 & gmail:-aniketupadhyay560@gamil.com & linkedin.com/in/aniket-upadhyay9569.
 - 📖 I graduated from Prof. Rajendra Singh (Rajju Bhaiya) University, Prayagraj in 2024 with a BCA degree.
 - 🤖 My college project is titled Quizzer Application, a mobile app designed for creating and taking quizzes.
 
